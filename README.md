@@ -17,6 +17,8 @@
 </p>
 -->
 <h1 align="center">Hi 👋, I'm Enes</h1>
+<h2 align="center">I'm Still Learning Js 💻</h2?
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesbytmr&label=Profile%20views&color=0e75b6&style=flat" alt="enesbytmr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
